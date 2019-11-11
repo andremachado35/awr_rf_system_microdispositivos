@@ -1,4 +1,7 @@
-Trabalho NI AWR
+Trabalho NI AWR - simulation rf system
+
+[software - NI AWR]
+https://www.awr.com/software/products/ni-awr-design-environment
 
 [problema] 
 
