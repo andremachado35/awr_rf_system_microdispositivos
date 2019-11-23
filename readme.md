@@ -1,4 +1,5 @@
 Trabalho NI AWR - simulation rf system
+nota final:19,3
 
 [software - NI AWR]
 https://www.awr.com/software/products/ni-awr-design-environment
